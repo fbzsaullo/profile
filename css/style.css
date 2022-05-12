@@ -1,5 +1,9 @@
 /* Style css */
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Responsive Profile */
 
 @media (max-width: 960px) {
