@@ -40,7 +40,8 @@
 /*  */
 
 body {
-  background-image: url("../images/background.jpg");;
+  background: url(../images/background.jpg) no-repeat center center fixed;
+  background-size: cover;
   font-family: Roboto, 'Sans-serif';
   font-size: 18px;
   text-align: center;
